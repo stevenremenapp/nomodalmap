@@ -10,46 +10,45 @@ img {
 .stop {
     display: block;
     position: absolute;
-    width: 5%;
-    height: 12%;
+    width: 3%;
+    /*height doesn't matter, width will determine it*/
+    /*height: 10%;*/
 }
 #stop1 {
-    left: 18%;
-    top: 42%;
-    opacity: 0.25;
+    left: 6%;
+    top: 23%;
 }
 #stop2 {
-    left: 43%;
-    top: 48%;
-    opacity: 0.25;
+    left: 50.5%;
+    top: 22%;
 }
 #stop3 {
-    left: 68%;
-    top: 50%;
+    left: 37.5%;
+    top: 42.33%;
 }
 #stop4 {
-  left: 78%;
-  top: 18%;
+  left: 53.25%;
+  top: 45%;
 }
 #stop5 {
-  left: 86%;
-  top: 80%;
+  left: 68%;
+  top: 34.5%;
 }
 #stop6 {
-  left: 8%;
-  top: 75%;
+  left: 12%;
+  top: 56%;
 }
 #stop7 {
-  left: 5%;
-  top: 12%;
+  left: 30.5%;
+  top: 51%;
 }
 #stop8 {
-  left: 45%;
-  top: 1%;
+  left: 33.5%;
+  top: 58.5%;
 }
 #stop9 {
-  left: 47.5%;
-  top: 74%;
+  left: 46%;
+  top: 53%;
 }
 
 /*Modal Styling*/
